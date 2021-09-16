@@ -24,12 +24,12 @@ available on iOS app store, google play store, roku, amazon fire stick, smart TV
 
 ![image](https://user-images.githubusercontent.com/69805720/133690122-ba1ee871-a944-4533-ac58-ae881311f8db.png)
 
-## 3. Accept my invite
+## 3. Accept my invite via email
 Accesing my Plex Sevrver happens after I send you an invite to my Plex libraries. This invite will be sent to the emaill address you associated with your Plex account. Only AFTER you create an account & accept the invite can you access my Plex Server. 
 
 ![image](https://user-images.githubusercontent.com/69805720/133690857-1edf522c-a22f-410f-81fa-e1baac13c673.png)
 
-## 4 Access my media libraries
+## 4 Access my media libraries via the Plex client / app
 My Plex Server is called UCANHAZMEDIA 
 ![image](https://user-images.githubusercontent.com/69805720/133687490-84b8600a-75c5-49c3-83d7-6732a347c6b5.png)
 
