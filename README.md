@@ -12,12 +12,14 @@ by providing an email address and setting a password. Be sure to check your emai
 ![image](https://user-images.githubusercontent.com/69805720/133679015-8857dd9d-e40f-4abf-9b7a-02ca60d8493d.png)
 
 ### 2. Install the free [Plex app](https://www.plex.tv/apps-devices/) (or channel) 
-available on iOS app store, google play store, roku, amazon fire stick, smart TV, and more. You can also install the [Plex Client](https://www.plex.tv/media-server-downloads/#plex-app) on Windows, macOS, Linux, Raspberry Pi... OR just access Plex via your favorite browser unsing the [Web App](https://www.plex.tv/). Once installed, sign in with the credentials you created on step 1.
+available on iOS app store, google play store, roku, amazon fire stick, smart TV, and more. You can also install the [Plex Client](https://www.plex.tv/media-server-downloads/#plex-app) on Windows, macOS, Linux, Raspberry Pi... OR just access Plex via your favorite browser unsing the [Web App](https://www.plex.tv/). Once installed, sign in with the credentials you created on step 1.(device list below)
 
 ![image](https://user-images.githubusercontent.com/69805720/133686804-2ad72943-7ca5-4f7a-b5c0-ae813efd4d5f.png)
 
 ### 3. Accept my invite
 Accesing my Plex Sevrver happens after I send you an invite to my Plex libraries. This invite will be sent to the emaill address you associated with your Plex account. Only AFTER you create an account & accept the invite can you access my Plex Server. 
+
+![image](https://user-images.githubusercontent.com/69805720/133689642-b573b059-5434-4c6b-aa85-755f69da3ee8.png)
 
 ### 4 Access my media libraries
 My Plex Server is called UCANHAZMEDIA 
