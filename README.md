@@ -3,11 +3,11 @@ If you're reading this, I've offered to share my Plex libraries with you. I main
 
 #### Step 1. Create free account & acknoledge confirmation email
 
-### Step 2. Install free app, client, or visit web client in a browser & sign in with your credentials
+#### Step 2. Install free app, client, or visit web client in a browser & sign in with your credentials
 
-### Step 3. Accept invite (sent to your email) to access my Plex librries 
+#### Step 3. Accept invite (sent to your email) to access my Plex librries 
 
-### Step 4. Access my media libraries 
+#### Step 4. Access my media libraries 
 
 -----------------------------------------------------------------------------
 ## 1. Create a free Plex account [here](https://www.plex.tv/sign-up/) 
