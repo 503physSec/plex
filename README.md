@@ -9,7 +9,7 @@ If you're reading this, I've offered to share my Plex libraries with you. I main
 
 ###Step 4. Access my media libraries 
 
-
+-----------------------------------------------------------------------------
 ## 1. Create a free Plex account [here](https://www.plex.tv/sign-up/) 
 by providing an email address and setting a password. 
 
