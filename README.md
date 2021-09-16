@@ -18,12 +18,12 @@ Be sure to check your email and confirm/verify your account creation.
 ### 2. Install the free [Plex app](https://www.plex.tv/apps-devices/) (or channel) 
 available on iOS app store, google play store, roku, amazon fire stick, smart TV, and more. You can also install the [Plex Client](https://www.plex.tv/media-server-downloads/#plex-app) on Windows, macOS, Linux, Raspberry Pi... OR just access Plex via your favorite browser unsing the [Web App](https://www.plex.tv/). Once installed, sign in with the credentials you created on step 1.(device list below)
 
-![image](https://user-images.githubusercontent.com/69805720/133686804-2ad72943-7ca5-4f7a-b5c0-ae813efd4d5f.png)
+![image](https://user-images.githubusercontent.com/69805720/133690122-ba1ee871-a944-4533-ac58-ae881311f8db.png)
 
 ### 3. Accept my invite
 Accesing my Plex Sevrver happens after I send you an invite to my Plex libraries. This invite will be sent to the emaill address you associated with your Plex account. Only AFTER you create an account & accept the invite can you access my Plex Server. 
 
-
+![image](https://user-images.githubusercontent.com/69805720/133690857-1edf522c-a22f-410f-81fa-e1baac13c673.png)
 
 ### 4 Access my media libraries
 My Plex Server is called UCANHAZMEDIA 
