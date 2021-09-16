@@ -30,7 +30,8 @@ Accesing my Plex Sevrver happens after I send you an invite to my Plex libraries
 ![image](https://user-images.githubusercontent.com/69805720/133690857-1edf522c-a22f-410f-81fa-e1baac13c673.png)
 
 ## 4 Access my media libraries via the Plex client / app
-My Plex Server is called UCANHAZMEDIA 
+My Plex Server is called UCANHAZMEDIA (pictured below)
+
 ![image](https://user-images.githubusercontent.com/69805720/133687490-84b8600a-75c5-49c3-83d7-6732a347c6b5.png)
 
 You may need to select 'MORE>' in the left pane listing evailable libraries to see my server 
