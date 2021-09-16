@@ -13,7 +13,7 @@ by providing an email address and setting a password.
 
 Be sure to check your email and confirm/verify your account creation.
 
-![image](https://user-images.githubusercontent.com/69805720/133689642-b573b059-5434-4c6b-aa85-755f69da3ee8.png)
+![image](https://user-images.githubusercontent.com/69805720/133689969-61c6aaea-e49c-4874-9bbd-b6d348053f5b.png)
 
 ### 2. Install the free [Plex app](https://www.plex.tv/apps-devices/) (or channel) 
 available on iOS app store, google play store, roku, amazon fire stick, smart TV, and more. You can also install the [Plex Client](https://www.plex.tv/media-server-downloads/#plex-app) on Windows, macOS, Linux, Raspberry Pi... OR just access Plex via your favorite browser unsing the [Web App](https://www.plex.tv/). Once installed, sign in with the credentials you created on step 1.(device list below)
