@@ -37,3 +37,4 @@ You may need to select 'MORE>' in the left pane listing evailable libraries to s
 
 ![image](https://user-images.githubusercontent.com/69805720/133687710-0b3bfea3-65bf-4b50-838e-ab346c8678b6.png)
 
+I've named my libraries with ALL CAPS to stand out / make them easier to locate
